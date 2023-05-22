@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personal-porfolio/static/css/main.3f363215.css",
+    "main.js": "/personal-porfolio/static/js/main.7675deae.js",
+    "static/js/787.fb771931.chunk.js": "/personal-porfolio/static/js/787.fb771931.chunk.js",
+    "static/media/eyecudemo.mp4": "/personal-porfolio/static/media/eyecudemo.f3100454c382f486e398.mp4",
+    "static/media/Poster7.png": "/personal-porfolio/static/media/Poster7.4a344bfe79836e76a8c6.png",
+    "static/media/febhademo.mp4": "/personal-porfolio/static/media/febhademo.0c145b4a0b28b998608c.mp4",
+    "static/media/WhoAmI.mp4": "/personal-porfolio/static/media/WhoAmI.c11279c971f6447336e1.mp4",
+    "static/media/Poster5.png": "/personal-porfolio/static/media/Poster5.c922de78b11d4f2d1cf8.png",
+    "static/media/Poster6.png": "/personal-porfolio/static/media/Poster6.36b1ec93abbea7497ec4.png",
+    "static/media/WhoAmI.png": "/personal-porfolio/static/media/WhoAmI.a6df00d10ce086872d92.png",
+    "static/media/UiTMPahang.png": "/personal-porfolio/static/media/UiTMPahang.2b653dd4210b1751cfea.png",
+    "static/media/Poster2.png": "/personal-porfolio/static/media/Poster2.530fb8ccb209a1ec5c92.png",
+    "static/media/Poster3.jpg": "/personal-porfolio/static/media/Poster3.8da4f0d733443b1b1487.jpg",
+    "static/media/Poster1.png": "/personal-porfolio/static/media/Poster1.b87eca678ed60ebfa880.png",
+    "static/media/Poster4.png": "/personal-porfolio/static/media/Poster4.280087b2bc59933ee01c.png",
+    "static/media/FEBHA.png": "/personal-porfolio/static/media/FEBHA.f3e5caed6dc5d116e6fa.png",
+    "static/media/EyeCu.gif": "/personal-porfolio/static/media/EyeCu.47ccaef989784cd2d0dc.gif",
+    "index.html": "/personal-porfolio/index.html",
+    "main.3f363215.css.map": "/personal-porfolio/static/css/main.3f363215.css.map",
+    "main.7675deae.js.map": "/personal-porfolio/static/js/main.7675deae.js.map",
+    "787.fb771931.chunk.js.map": "/personal-porfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f363215.css",
+    "static/js/main.7675deae.js"
+  ]
+}
