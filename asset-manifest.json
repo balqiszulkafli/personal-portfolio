@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.3f363215.css",
-    "main.js": "/personal-portfolio/static/js/main.8f4237f5.js",
+    "main.js": "/personal-portfolio/static/js/main.45012b96.js",
     "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
     "static/media/eyecudemo.mp4": "/personal-portfolio/static/media/eyecudemo.f3100454c382f486e398.mp4",
     "static/media/Poster7.png": "/personal-portfolio/static/media/Poster7.4a344bfe79836e76a8c6.png",
     "static/media/febhademo.mp4": "/personal-portfolio/static/media/febhademo.0c145b4a0b28b998608c.mp4",
     "static/media/WhoAmI.mp4": "/personal-portfolio/static/media/WhoAmI.c11279c971f6447336e1.mp4",
+    "static/media/Poster8.png": "/personal-portfolio/static/media/Poster8.87f6eecbdc8c23da80b8.png",
     "static/media/Poster5.png": "/personal-portfolio/static/media/Poster5.c922de78b11d4f2d1cf8.png",
     "static/media/Poster6.png": "/personal-portfolio/static/media/Poster6.36b1ec93abbea7497ec4.png",
     "static/media/WhoAmI.png": "/personal-portfolio/static/media/WhoAmI.a6df00d10ce086872d92.png",
@@ -19,11 +20,11 @@
     "static/media/EyeCu.gif": "/personal-portfolio/static/media/EyeCu.47ccaef989784cd2d0dc.gif",
     "index.html": "/personal-portfolio/index.html",
     "main.3f363215.css.map": "/personal-portfolio/static/css/main.3f363215.css.map",
-    "main.8f4237f5.js.map": "/personal-portfolio/static/js/main.8f4237f5.js.map",
+    "main.45012b96.js.map": "/personal-portfolio/static/js/main.45012b96.js.map",
     "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f363215.css",
-    "static/js/main.8f4237f5.js"
+    "static/js/main.45012b96.js"
   ]
 }
